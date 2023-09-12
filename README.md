@@ -1,2 +1,2 @@
 # Aula1Github
-<img scr="octocat.png ">
+<img scr="octocat.png">
